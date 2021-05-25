@@ -33,7 +33,7 @@ export default class Experiences extends Component {
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
                     <strong> CANFAR <br /> Data Research Analyst Intern </strong>
-                    <span>Sept '14 - June '14</span>
+                    <span>Sept '14 - June '15</span>
                   </h6>
                   <p className="pt">
                   · Performed database work; collecting and inputting donations, contact information, potential sponsors and
