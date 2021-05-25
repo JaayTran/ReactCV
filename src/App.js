@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="wrap-content">
       <div className="container">
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <Route exact path="/" component={Home} />
         </Router>
       </div>
