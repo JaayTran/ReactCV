@@ -17,7 +17,7 @@ export default class Experiences extends Component {
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
                     <strong>Daisy Social<br />Sous-Chef</strong>
-                    <span>Nov '19' - May '21</span>
+                    <span>Nov '19 - May '21</span>
                   </h6>
                   <p className="pt">
                   · Designed and executed new/rotating seasonal menu items.

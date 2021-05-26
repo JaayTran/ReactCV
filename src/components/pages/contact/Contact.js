@@ -11,7 +11,7 @@ export default class Contact extends Component {
             </h6>
             <hr />
             <p className="grey-text text-lighten-3 pt">
-              16 Bonnycastle St, Toronto, Ontario
+              Toronto, Ontario
             </p>
             <p className="grey-text text-lighten-3 pt">
               Email: Jimmy2301@gmail.com
