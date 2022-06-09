@@ -32,7 +32,7 @@ export default class Profile extends Component {
                 </h6>
                 <hr />
                 <p className="grey-text text-lighten-3 pt">
-                Hey, I'm Jimmy
+                Hey, I'm Jimmy. I am a new grad from Ryerson (I guess now Toronto Metropolitan) University. I love learning new things, facing challenges and having fun.
                 </p>
             </div>
         </div>

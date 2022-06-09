@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
 export default class Skills extends Component {
   render() {
@@ -10,51 +10,15 @@ export default class Skills extends Component {
               <strong>Professional Skills</strong>
             </h6>
             <hr />
-            <div className="row pt">
-              <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">JAVA</p>
-                <div className="progress white">
-                  {/* <div className="determinate grey" style={{ width: '89%'}}></div> */}
-                </div>
-              </div>
-              <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">C/C#/C++</p>
-                <div className="progress white">
-                  {/* <div className="determinate grey" style={{ width: '100%'}}></div> */}
-                </div>
-              </div>
-            </div>
-            <div className="row pt">
-              <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">PYTHON</p>
-                <div className="progress white">
-                  {/* <div className="determinate grey" style={{ width: '95%'}}></div> */}
-                </div>
-              </div>
-              <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">MYSQL</p>
-                <div className="progress white">
-                  {/* <div className="determinate grey" style={{ width: '90%'}}></div> */}
-                </div>
-              </div>
-            </div>
-            <div className="row pt">
-              <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">JQUERY</p>
-                <div className="progress white">
-                  {/* <div className="determinate grey" style={{ width: '65%'}}></div> */}
-                </div>
-              </div>
-              <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">JAVASCRIPT</p>
-                <div className="progress white">
-                  {/* <div className="determinate grey" style={{ width: '80%'}}></div> */}
-                </div>
-              </div>
+            <div className="white-text">
+              <h6><u>Programming</u></h6>
+              <p>Java, C#, C++, Python, HTML/CSS, JavaScript ES6, PHP, SQL</p>
+              <h6><u>Tools and Frameworks</u></h6>
+              <p>React.js, Node.js, MySQL, Unity, OpenGL, MongoDB, Git, Linux</p>
             </div>
           </div>
         </div>
       </div>
-    )
+    );
   }
 }

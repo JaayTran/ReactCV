@@ -8,7 +8,7 @@ export default class Experiences extends Component {
           <div className="card-content">
             <h6>
               <strong>
-                <i className="fas fa-tools"></i> EXPERIENCE
+                <i className="fas fa-briefcase"></i> EXPERIENCE
               </strong>
             </h6>
             <hr />
@@ -16,15 +16,17 @@ export default class Experiences extends Component {
               <div className="col s12">
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
-                    <strong>Daisy Social<br />Sous-Chef</strong>
-                    <span>Nov '19 - May '21</span>
+                    <strong>Freelance Developer</strong>
+                    <span>June '21 - Present</span>
                   </h6>
                   <p className="pt">
-                  · Designed and executed new/rotating seasonal menu items.
+                  · Discussed requirements and features of product requested with customer.
                   <br />
-                  · Prepped meat and produce for service.
+                  · Provided accurate feedback, input and expectations of requiremnts.
                   <br />
-                  · Provided aide running daily operations of daughter establishment Beach Shack.
+                  · Maintained professional relations to customer during production stages.
+                  <br />
+                  · Delivered product to customer by deadlines set.
                   </p>
                 </blockquote>
               </div>

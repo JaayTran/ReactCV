@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export default class Experiences extends Component {
+export default class Projects extends Component {
   render() {
     return (
       <div>
@@ -8,7 +8,7 @@ export default class Experiences extends Component {
           <div className="card-content">
             <h6>
               <strong>
-                <i className="fas fa-tools"></i> EXPERIENCE
+                <i className="fas fa-tools"></i> PROJECTS
               </strong>
             </h6>
             <hr />
@@ -16,34 +16,50 @@ export default class Experiences extends Component {
               <div className="col s12">
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
-                    <strong>Daisy Social<br />Sous-Chef</strong>
+                    <strong>Robot Boil House Site</strong>
                     <span>Nov '19' - May '21</span>
                   </h6>
                   <p className="pt">
-                  · Designed and executed new/rotating seasonal menu items.
+                  · Created an ecommerce website for a restaurant using the MERN stack with a ReactJS front end and a NodeJS backend that stores product and user information in MongoDB
                   <br />
-                  · Prepped meat and produce for service.
+                  ·	Implemented PayPal payments and option to display and inform customers of order completion.
                   <br />
-                  · Provided aide running daily operations of daughter establishment Beach Shack.
+                  ·	Designed and implemented a user-friendly CRUD interface for managing products and users.
+                  <br />
+                  ·	Created database tables in MongoDB to be used with CRUD API methods
+                  <br />
+                  ·	Built a data representation model with google charts to summarize orders and users.
                   </p>
                 </blockquote>
               </div>
            
+                         
               <div className="col s12">
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
-                    <strong> CANFAR <br /> Data Research Analyst Intern </strong>
-                    <span>Sept '14 - June '14</span>
+                    <strong> Bill Splitting App</strong>
+                    <span>Sept '14 - June '15</span>
                   </h6>
                   <p className="pt">
-                  · Performed database work; collecting and inputting donations, contact information, potential sponsors and
-                  company/personal information
+                  ·	An Android application coded in Java where you can easily manage money lent or borrowed between friends. 
                   <br />
-                  · Contacted executives of large companies for sponsorships and participation in events
+                  ·	Had multiple app sections which updated the view page. 
                   <br />
-                  · Compiled data for weekly meetings and set up conference rooms
+                  ·	Created an android remote webserver for the application hosted with PHP/MySQL OpenGL
+                  </p>
+                </blockquote>
+              </div>
+
+              <div className="col s12">
+                <blockquote className="content-right">
+                  <h6 className="no-pad mt-bottom">
+                    <strong>Drone Project </strong>
+                    <span>Sept '14 - June '15</span>
+                  </h6>
+                  <p className="pt">
+                  ·	Used C++ & OpenGL to create an interactive 3D drone with a dynamically designed terrain 
                   <br />
-                  · Interpreted data into visual forms to show what areas were reached or overlooked
+                  ·	Implemented other enemy drones that the player needs to attack to survive Membership 
                   </p>
                 </blockquote>
               </div>
