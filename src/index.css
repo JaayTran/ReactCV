@@ -2,8 +2,6 @@ body {
   background-color: #f3f3f3;
 }
 
-
-
 a:link    {color:#000;}  /* unvisited link  */
 a:visited {color:#000;}  /* visited link    */
 a:hover   {color:blue;}  /* mouse over link */

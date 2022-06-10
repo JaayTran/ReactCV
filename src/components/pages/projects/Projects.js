@@ -26,9 +26,14 @@ export default class Projects extends Component {
                   </h6>
                   <p className="pt">
                     · React Web App that shows off my resume in a stylish way
-                    <br />· Optimized design for 8+ screen sizes (both desktop
-                    and mobile) using Resposively app, flexbox and media
-                    queries.
+                    <br />· Reduced largest contentful paint 50% from 1.2
+                    seconds to .6 seconds by running web performance test to
+                    identify opportunities to speed up the loading of the
+                    webpage.
+                    <br />· Refactored for best practices by validating HTML and
+                    CSS using W3C Markup validation service.
+                    <br />· Optimized design for 8+ screen sizes (desktop and
+                    mobile) using Resposively app, flexbox and media queries.
                   </p>
                 </blockquote>
               </div>
