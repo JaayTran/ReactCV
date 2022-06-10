@@ -38,7 +38,7 @@ export default class Projects extends Component {
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
                     <strong> Bill Splitting App</strong>
-                    <span>Sept '14 - June '15</span>
+                    <span>Jan 2020 - Apr 2020</span>
                   </h6>
                   <p className="pt">
                   ·	An Android application coded in Java where you can easily manage money lent or borrowed between friends. 
@@ -53,8 +53,8 @@ export default class Projects extends Component {
               <div className="col s12">
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
-                    <strong>Drone Project </strong>
-                    <span>Sept '14 - June '15</span>
+                    <strong>OpenGL Drone Project </strong>
+                    <span>Jan 2019 - Apr 2019</span>
                   </h6>
                   <p className="pt">
                   ·	Used C++ & OpenGL to create an interactive 3D drone with a dynamically designed terrain 
@@ -63,6 +63,36 @@ export default class Projects extends Component {
                   </p>
                 </blockquote>
               </div>
+
+              <div className="col s12">
+                <blockquote className="content-right">
+                  <h6 className="no-pad mt-bottom">
+                    <strong>Membership Management Software</strong>
+                    <span>Jan 2018 - Apr 2018</span>
+                  </h6>
+                  <p className="pt">
+                  · Built a Java app using Swing GUI toolkit that allowed users of a community center to sign-up and pay for
+classes that were being held.
+                  <br />
+                  · Worked on different login screens depending on the type of account the user registered as using Swing.
+                  </p>
+                </blockquote>
+              </div>
+
+              <div className="col s12">
+                <blockquote className="content-right">
+                  <h6 className="no-pad mt-bottom">
+                    <strong>Image Recognition App</strong>
+                    <span>Sep 2017 - Dec 2017</span>
+                  </h6>
+                  <p className="pt">
+                  · Created a program in Java to read an image of a hand written number and outputs what the number was.
+                  <br />
+                  · Implemented a neural network to process the image and determine its contents.
+                  </p>
+                </blockquote>
+              </div>
+            
             
             </div>
           </div>
