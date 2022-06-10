@@ -33,7 +33,7 @@ export default class Projects extends Component {
                     <br />· Refactored for best practices by validating HTML and
                     CSS using W3C Markup validation service.
                     <br />· Optimized design for 8+ screen sizes (desktop and
-                    mobile) using Resposively app, flexbox and media queries.
+                    mobile) using Responsively app, flexbox and media queries.
                   </p>
                 </blockquote>
               </div>
