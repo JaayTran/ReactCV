@@ -5,7 +5,6 @@ import About from "../../components/pages/about/About";
 import Skills from "../../components/pages/skills/Skills";
 import Experiences from "../../components/pages/experiences/Experiences";
 import Educations from "../../components/pages/educations/Educations";
-import Portfolios from "../../components/pages/portfolios/Portfolios";
 import Projects from "../../components/pages/projects/Projects";
 
 export default class Home extends Component {

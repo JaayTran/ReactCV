@@ -12,7 +12,27 @@ export default class Projects extends Component {
               </strong>
             </h6>
             <hr />
+
             <div className="row mt">
+              <div className="col s12">
+                <blockquote className="content-right">
+                  <h6 className="no-pad mt-bottom">
+                    <strong>
+                      <a href="https://jaaytran.github.io/ReactCV/">
+                        React Resume Website (This one here!)
+                      </a>
+                    </strong>
+                    <span>Jan 2022 - Feb 2022</span>
+                  </h6>
+                  <p className="pt">
+                    · React Web App that shows off my resume in a stylish way
+                    <br />· Optimized design for 8+ screen sizes (both desktop
+                    and mobile) using Resposively app, flexbox and media
+                    queries.
+                  </p>
+                </blockquote>
+              </div>
+
               <div className="col s12">
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
@@ -22,7 +42,7 @@ export default class Projects extends Component {
                         Robot Boil House Site
                       </a>
                     </strong>
-                    <span>Nov '19' - May '21</span>
+                    <span>June '21' - Sept '21</span>
                   </h6>
                   <p className="pt">
                     · Created an ecommerce website for a restaurant using the
