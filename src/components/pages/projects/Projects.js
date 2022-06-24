@@ -18,6 +18,29 @@ export default class Projects extends Component {
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
                     <strong>
+                      <a href="https://triangle-fabrications.herokuapp.com/">
+                        Triangle Fabrications Website
+                      </a>
+                    </strong>
+                    <span>May 2022 - June 2022</span>
+                  </h6>
+                  <p className="pt">
+                    · Created an ecommerce website for a client similar to the
+                    Robot Boil House Website with improvements and implementing
+                    different tools
+                    <br />
+                    · ContextAPI used instead of redux
+                    <br />
+                    · React-Router updated to version 6
+                    <br />· Mongoose updated to version 6
+                  </p>
+                </blockquote>
+              </div>
+
+              <div className="col s12">
+                <blockquote className="content-right">
+                  <h6 className="no-pad mt-bottom">
+                    <strong>
                       <a href="https://jaaytran.github.io/ReactCV/">
                         React Resume Website (This one here!)
                       </a>
@@ -44,7 +67,7 @@ export default class Projects extends Component {
                     <strong>
                       {" "}
                       <a href="https://github.com/JaayTran/robot-boil-house-site">
-                        Robot Boil House Site
+                        Robot Boil House Website
                       </a>
                     </strong>
                     <span>June '21' - Sept '21</span>
